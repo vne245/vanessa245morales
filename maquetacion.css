@@ -1,0 +1,199 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+header{
+	background: darksalmon;
+	width: 95%;
+	margin: auto;
+	height: 120px;
+}
+#titulo{
+	font-family: Bookman Old Style;
+	font-size: 90px;
+	text-align: center;
+	color: darkslategrey;
+}
+#general{
+	background: black;
+	width: 90%;
+	height: 1820px;
+	margin: auto;
+}
+#texto{
+	color: darkslateblue;
+	font-family: Candara;
+	font-size: 20px;
+}
+#aporta{
+	font-family: BatangChe;
+	font-size: 25px;
+	color: #C0E021;
+	text-align: center;
+}
+#imagen{
+	height: 300px;
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+article{	
+	margin-right: 10px;
+	margin-left: 10px;
+}
+section{
+	float: left;
+	width: 75%;
+	height: 830px;
+	background: darkseagreen;
+	margin-left: 20px;
+	margin-bottom: 40px;
+}
+aside{
+	float: right;
+	width: 20%;
+	height: 700px;
+	margin-right: 20px;
+	background: rosybrown;
+}
+#titulob{
+	font-family: Bookman Old Style;
+	font-size: 30px;
+	text-align: center;
+	color: gold;
+}
+#text{
+	font-family: arial;
+	font-size: 20px;
+	text-align: center;
+	color: blue;
+	margin-left: 8px;
+	margin-right: 8px;
+}
+#text1{
+	font-family: Aharoni;
+	font-size: 25px;
+	text-align: center;
+	color: blue;
+}
+#imagenb{
+	height: 200px;
+	margin-left: 40px;
+}
+#fila1{
+	background: lime;
+	font-family: Bradley Hand ITC;
+	font-size: 30px;
+}
+#fila2{
+	background: blue;
+	font-family: Browallia New;
+	font-size: 25px;
+}
+#fila3{
+	background: yellow;
+	font-family: Browallia New;
+	font-size: 25px;
+}
+#fila4{
+	background: red;
+	font-family: Browallia New;
+	font-size: 25px;
+}
+#fila5{
+	background: purple;
+	font-family: Browallia New;
+	font-size: 25px;
+}
+#fila6{
+	background: orange;
+	font-family: Browallia New;
+	font-size: 25px;
+}
+table{
+	background: black;
+	border: 5px;
+	margin-right: 25px;
+	margin-left: 25px;
+}
+#generalb{
+	background: black;
+	width: 90%;
+	height: 970px;
+	margin: auto;
+}
+footer{
+	background: grey;
+	width: 100%;
+	height: 200px;
+	margin: auto;
+}
+#yo{
+	float: left;
+	margin-left: 25px;
+	margin-right: 25px;
+	margin-top: 40px;
+	height: 130px;
+}
+#vane{
+	font-family: arial;
+	color: black;
+	text-align: left;
+}
+#final{
+	color: white;
+	font-family: arial;
+	text-align: center;
+	font-size: 25px;
+}
+#enlaces{
+	color: blue;
+	font-family: arial;
+	text-align: center;
+	font-size: 18px;	
+}
+#fila1b{
+	background: rosybrown;
+	font-family: Bodoni MT Condensed;
+	font-size: 40px;
+}
+#fila2b{
+	background: skyblue;
+	font-family: Candara;
+	font-size: 20px;
+}
+#fila3b{
+	background: palegreen;
+	font-family: Candara;
+	font-size: 20px;
+}
+#fila4b{
+	background: sandybrown;
+	font-family: Candara;
+	font-size: 20px;
+}
+#tabla{
+	background-color: mediumaquamarine;
+	border: 5px ;
+	margin: auto;
+}
+#generalc{
+	background: black;
+	width: 90%;
+	height: 2275px;
+	margin: auto;
+}
+#red{
+	height: 20px;
+	margin-top: 8px;
+}
+h3{
+	font-family: Candara;
+	color: darkorange;
+	text-align: center;
+}
+#contc{
+	margin-left: 30px;
+	color: green;
+
+}
